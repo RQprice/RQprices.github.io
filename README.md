@@ -1,1 +1,1 @@
-# RQprices.github.io
+# royal_price
